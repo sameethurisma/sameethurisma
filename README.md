@@ -1,10 +1,10 @@
 # Hi, I'm Risma 👋
 
-**Software Engineering Undergraduate | Aspiring Software Engineer**
+**Software Engineering Undergraduate | Aspiring AI & Robotics Engineer**
 
-I'm a BSc (Hons) Software Engineering student at **NSBM Green University, Sri Lanka**. I'm interested in using Artificial Intelligence and Machine Learning to solve real-world problems, especially in healthcare.
+I'm a BSc (Hons) Software Engineering student at **NSBM Green University, Sri Lanka**. I'm focused on the intersection of **Artificial Intelligence and Robotics**, and I want to build intelligent systems that solve real-world problems, especially in healthcare.
 
-Right now I'm building strong programming foundations and turning what I learn into small, practical projects.
+I'm currently building strong programming foundations and turning what I learn into practical projects.
 
 ---
 
@@ -18,7 +18,7 @@ Right now I'm building strong programming foundations and turning what I learn i
 |---|---|
 | Languages | Python, JavaScript, HTML, CSS |
 | Tools | VS Code, Git, GitHub |
-| Learning | Data Structures & Algorithms, Machine Learning, Software Engineering Concepts |
+| Learning | Data Structures & Algorithms, Machine Learning, Computer Vision, Robotics Basics |
 
 ## 📂 Projects
 
@@ -26,17 +26,28 @@ Right now I'm building strong programming foundations and turning what I learn i
 |---|---|---|
 | [Learning to Code](https://github.com/sameethurisma/learning-to-code) | My learning portfolio: programming fundamentals, university coursework, and practice exercises | Python |
 
-## 🔬 Currently Exploring
+## 🤖 Learning Roadmap (AI + Robotics)
 
-- Python and problem solving through DSA practice
-- Machine Learning basics and AI-powered applications
-- Technology for healthcare
-- Building and documenting projects on GitHub
+- [x] Python and programming fundamentals
+- [ ] Data Structures & Algorithms
+- [ ] Math for ML (linear algebra, probability, calculus)
+- [ ] Machine Learning with scikit-learn and PyTorch
+- [ ] Computer Vision with OpenCV
+- [ ] Robotics basics: sensors, motors, control
+- [ ] ROS 2 and robot simulation (Gazebo / PyBullet)
+- [ ] Reinforcement Learning
+
+## 🔬 Areas of Interest
+
+- Artificial Intelligence and Machine Learning
+- Robotics and intelligent automation
+- AI-powered applications
+- Technology for healthcare (assistive and rehabilitation robotics)
 
 ## 🚀 Goals
 
-- Build practical software projects and share them here
-- Apply AI/ML to real-world problems
+- Build practical AI and robotics projects and document them here
+- Develop intelligent robotic systems that help solve healthcare challenges
 - Take part in hackathons and collaborative projects
 - Grow into a well-rounded software engineer
 
@@ -48,4 +59,4 @@ Right now I'm building strong programming foundations and turning what I learn i
 
 ---
 
-*Learning continuously. Building with purpose.*
+*Learning continuously. Building intelligent systems with purpose.*
